@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Jordan Runco's GitHub Page (under construction)
 
 You can use the [editor on GitHub](https://github.com/jrunco/jrunco.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
